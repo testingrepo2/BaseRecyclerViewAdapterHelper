@@ -3,7 +3,7 @@
 # BRVAH
 
 Powerful and flexible RecyclerView Adapter,
-Please feel free to use this. (Welcome to **Star** and **Fork**)  
+Please feel free to use this. (Welcome to **Star** and **Fork**)   
 
 强大而灵活的RecyclerView Adapter（欢迎 **Star** 和 **Fork**）
 
